@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "hamburgueria@gmail.com",
+      "password": "$2a$10$L8aXY3Eyh1O4bPbmqUX.LueLZVXbQmgaV1h2OIJYX70yupgW5436C",
+      "name": "burguer",
+      "type": "admin",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Big Kenzie",
+      "description": "Não existe nada igual. Dois hambúrgueres, alface, queijo e molho especial, cebola e picles num pão com gergelim.",
+      "price": 15,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXxD5Xb/200/200/original?country=br",
+      "category": "hamburguer"
+    },
+    {
+      "name": "Quarteirão com Queijo",
+      "description": "Inigualável. Perfeito. Um hambúrguer feito com pura carne bovina, envolvida por duas fatias de queijo e temperado com ketchup, mostarda, cebola e picles.",
+      "price": 12,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXDlz7u/200/200/original?country=br",
+      "category": "hamburguer"
+    },
+    {
+      "name": "KenzieChicken",
+      "description": "O sabor que você adora. Frango empanado e dourado com molho suave e cremoso, acompanhado de alface crocante num pão com gergelim.",
+      "price": 12,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXWeTNH/200/200/original?country=br",
+      "category": "hamburguer"
+    },
+    {
+      "name": "Batata Frita",
+      "description": "O sabor e a crocancia que você adora. Nossas Batatas são consideradas a melhor do brasil.",
+      "price": 10,
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2393101-realista-frances-frita-caixa-fastfood-conceito-pode-ser-usado-como-maquete-estoque-ilustracao-em-desenho-estilo-isolado-no-fundo-branco-vetor.jpg",
+      "category": "acompanhamento"
+    },
+    {
+      "name": "Nuggets",
+      "description": "Crocantes, leves e deliciosos. Os frangos empanados mais irresistíveis do Burguers",
+      "price": 10,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXn2FrR/200/200/original?country=br",
+      "category": "acompanhamento"
+    },
+    {
+      "name": "Molho Barbecue",
+      "description": "O difícil é escolher qual o melhor molho para se deliciar com os Burguers Nuggets! Para hoje que tal o molho barbecue?",
+      "price": 10,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXxTdqw/200/200/original?country=br",
+      "category": "acompanhamento"
+    },
+    {
+      "name": "Sundae Chocolate",
+      "description": "A medida certa entre calda de chocolate e massa gelada de baunilha que pode fazer você viver uma experiência explosiva, além de amedoins crocantes. Desfrute dessa combinação perfeita!",
+      "price": 14,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXuLeTy/200/200/original?country=br",
+      "category": "sobremesa"
+    },
+    {
+      "name": "Sundae Morango",
+      "description": "A medida certa entre calda de morango e massa gelada de baunilha que pode fazer você viver uma experiência explosiva, além de amedoins crocantes. Desfrute dessa combinação perfeita",
+      "price": 14,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXNtbWx/200/200/original?country=br",
+      "category": "sobremesa"
+    },
+    {
+      "name": "Sundae Caramelo",
+      "description": "A medida certa entre calda de caramelo e massa gelada de baunilha que pode fazer você viver uma experiência explosiva, além de amedoins crocantes. Desfrute dessa combinação perfeita!",
+      "price": 14,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXJ6Wzq/200/200/original?country=br",
+      "category": "sobremesa"
+    },
+    {
+      "name": "Casquinha Baunilha",
+      "description": "A sobremesa que o Brasil todo adora. Uma casquinha supercrocante, com massa gelada de baunilha que vai bem a qualquer hora.",
+      "price": 7,
+      "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXnFFzy/200/200/original?country=br",
+      "category": "sobremesa"
+    },
+    {
+      "name" : "Fanta sabor laranja",
+      "description": "Refrescante e geladinho. Uma bebida assim refresca a vida. ",
+      "price": 9,
+      "image": "https://casafiesta.fbitsstatic.net/img/p/refrigerante-fanta-laranja-lata-350ml-67109/233977.jpg?w=420&h=420&v=no-change",
+      "category": "bebida"
+    },
+    {
+      "name" : "Coca Cola",
+      "description": "Refrescante e geladinho. Uma bebida assim refresca a vida. ",
+      "price": 9,
+      "image": "https://d3efjz1jvymzgz.cloudfront.net/Custom/Content/Products/10/11/1011792_refrigerante-coca-cola-lata-350ml-fardo-c-12-unidades_z1_637051111791642510.png",
+      "category": "bebida"
+    }
+    
+  ],
+  "feedbacks": [
+
+
+  ]
+}
