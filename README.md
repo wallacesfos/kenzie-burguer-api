@@ -78,7 +78,7 @@ O URL base da aplicação é https://hamburgueria-api-kenzie-academ.herokuapp.co
 }
 ```
 
-<h2>Animes</h2>
+<h2>Produtos</h2>
 
 <p align="center">GET /produtos</p>
 
